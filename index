@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Lagosta Store</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/script.js"></script>
+</head>
+<body>
+    <h1>Login Lagosta Store</h1>
+    <div class="box">
+    <form>
+     <p>Digite seu Login</p>
+     <input type="text" id="Login" class="Login" placeholder="Digite seu Login">
+     <br/>
+    <p>Digite sua Senha</p>
+     <input type="password" id="Senha" class="Senha" placeholder="Digite sua Senha">
+     <br/><br/>
+     <button type="button" onclick="verificarLogin()">Entrar</button>
+    </form>
+    </div>
+</body>
+</html>
