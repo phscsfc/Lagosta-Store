@@ -6,9 +6,12 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <h1>Produtos</h1>
+    <h1 class="h1">Produtos</h1>
     <div class="pratos">
     <img src="img/lagosta.png" alt="Lagosta Grelhada com limão">
+   
     </div>
+    <span class="titulo_prod">Moqueca</span>
+    <span class="descricao_prod">Lagosta grelhada <br/> com limões, <br/> alfaces e pepinos  </span>
 </body>
 </html>
